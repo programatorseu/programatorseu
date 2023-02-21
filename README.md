@@ -1,5 +1,12 @@
 Hi 👋 My name is Piotr Sadowski
-===============================Backend / Frontend developer----------------------------I have been web developer over decade. Fortunate to focus on many aspects of web development (graphics, front-end, back-end). I'm building ecommerce based on laravel + intertia right now* 🌍  I'm based in Gdynia* 🖥️  See my portfolio at [devpiotr.com](http://devpiotr.com)* ✉️  You can contact me at [hey@devpiotr.com](mailto:hey@devpiotr.com)* 🚀  I'm currently working on [upaprog.com](http://upaprog.com)* 🧠  I'm learning Nuxt, Pinia, Laravel
+Backend / Frontend developer
+----------------------------
+I have been web developer over decade. Fortunate to focus on many aspects of web development (graphics, front-end, back-end). I'm building ecommerce based on laravel + intertia right now* 
+- I'm based in Gdynia* 🖥️  
+- See my portfolio at [devpiotr.com](http://devpiotr.com)
+-  ✉️  You can contact me at [hey@devpiotr.com](mailto:hey@devpiotr.com)
+-  🚀  I'm currently working on [upaprog.com](http://upaprog.com) 
+-  🧠  I'm learning Nuxt, Pinia, Laravel
 
 ### Skills
 
